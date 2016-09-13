@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Save Your Route</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_route">Lộ trình đã lưu</string>
+    <string name="title_activity_show_map">Lộ trình đã đi</string>
+    <string name="title_activity_my_intro">Giới thiệu</string>
+    <string name="title_activity_settting">Cài đặt</string>
+    <string name="title_activity_read_file_sdcard">ReadFileSDCardActivity</string>
+    <string name="title_activity_show_market_around_me">ShowMarketAroundMe</string>
+    <string name="title_activity_add_new_market">AddNewMarket</string>
+</resources>

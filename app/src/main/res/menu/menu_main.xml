@@ -1,0 +1,14 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools" tools:context=".MainActivity">
+    <item android:id="@+id/route_name" android:title="Lộ trình đã lưu"
+        android:orderInCategory="100" app:showAsAction="never" />
+    <item android:id="@+id/readfile" android:title="Readfile From SDCard"
+        android:orderInCategory="100" app:showAsAction="never" />
+    <item android:id="@+id/showMarket" android:title="Show Market Around Me"
+        android:orderInCategory="100" app:showAsAction="never" />
+    <item android:id="@+id/intro" android:title="Hướng dẫn"
+        android:orderInCategory="100" app:showAsAction="never" />
+    <item android:id="@+id/action_settings" android:title="@string/action_settings"
+        android:orderInCategory="100" app:showAsAction="never" />
+</menu>
